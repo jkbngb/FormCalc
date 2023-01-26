@@ -19,5 +19,4 @@ class FormCalcApplicationTests {
 		int resultSquare = controllerSquare.calcSquare(4);
 		assertEquals(resultSquare, 16);
 	}
-
 }
