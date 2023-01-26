@@ -4,7 +4,7 @@ This project aims to develop a quick API that helps calculate the area of a shap
 
 # Project
 
-The API is implemented as a REST-based server in Java using Spring Boot. The service should be able to return the desired information using REST.
+The API is implemented as a REST-based server in Java using Spring Boot. The service is able to return the desired information using REST.
 
 # Documentation
 
